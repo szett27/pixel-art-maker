@@ -6,8 +6,8 @@ html{
 .container{
   display: grid;
   margin-top: 15%;
-  grid-template-columns: repeat(10, 100px);
-  grid-template-rows: repeat(5, 100px);
+  grid-template-columns: repeat(14, 100px);
+  grid-template-rows: repeat(5, 50px);
   border-style: solid;
   padding: 5px;
 }

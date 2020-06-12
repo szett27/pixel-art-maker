@@ -36,7 +36,7 @@ let createGrid = (divs) =>{
 
 }
 
-createGrid(50);
+createGrid(70);
 
 //event listeners
 
